@@ -1,0 +1,26 @@
+{
+  "name": "todoist-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "headed": "playwright test --headed",
+    "chrome": "playwright test --project=chromium",
+    "report": "playwright show-report"
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
