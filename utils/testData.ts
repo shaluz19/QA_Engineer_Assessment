@@ -4,7 +4,7 @@ export const TASK_DESCRIPTION = "Updated Playwright Assignment";
 
 export const TEST_EMAIL = "21mcaa30@kristujayanti.com";
 
-export const TEST_PASSWORD = "Ambedkar@2026";
+export const TEST_PASSWORD = "Test123";
 
 export const TASK_NAME_1 = "Buy Grocery";
 export const TASK_DESCRIPTION_1 =
