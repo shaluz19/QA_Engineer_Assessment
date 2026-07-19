@@ -66,7 +66,7 @@ npm -v
 # Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone (https://github.com/shaluz19/QA_Engineer_Assessment.git)
 ```
 
 Navigate to the project folder:
