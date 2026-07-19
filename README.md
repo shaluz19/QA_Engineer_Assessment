@@ -103,7 +103,7 @@ Open the following file:
 utils/testData.ts
 ```
 
-Credentials already updated
+Credentials will be shared through mail...
 ---
 
 # Execute the Tests
