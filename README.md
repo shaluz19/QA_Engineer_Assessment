@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Todoist Automation Assignment
 
 ## Overview
@@ -103,13 +103,7 @@ Open the following file:
 utils/testData.ts
 ```
 
-Update the Todoist credentials:
-
-```typescript
-export const TEST_EMAIL = "your_email";
-export const TEST_PASSWORD = "your_password";
-```
-
+Credentials already updated
 ---
 
 # Execute the Tests
@@ -195,6 +189,7 @@ This repository contains:
 * Page Object Model Implementation
 * HTML Test Report Support
 * README Documentation
+* Manual & API testcases Excel file
 
 ---
 
@@ -204,4 +199,3 @@ This repository contains:
 =======
 # QA_Engineer_Assessment
 Manual, API, and automated testing suite (Playwright/TypeScript, Postman) for a ReactJS + Node.js Todo App — QA Engineer coding challenge submission.
->>>>>>> 1bab1640edf730859549325a58f96d97d893454e
