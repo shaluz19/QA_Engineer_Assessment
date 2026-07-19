@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todoist Automation Assignment
 
 ## Overview
@@ -200,3 +201,7 @@ This repository contains:
 # Author
 
 **Shalini N**
+=======
+# QA_Engineer_Assessment
+Manual, API, and automated testing suite (Playwright/TypeScript, Postman) for a ReactJS + Node.js Todo App — QA Engineer coding challenge submission.
+>>>>>>> 1bab1640edf730859549325a58f96d97d893454e
