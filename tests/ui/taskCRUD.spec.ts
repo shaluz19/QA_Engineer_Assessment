@@ -1,4 +1,4 @@
-import { test, expect } from './baseTest';
+import { test, expect } from '../fixtures/baseTest';
 import { TodoPage } from '../pages/TodoPage';
 import { TASK_NAME, TASK_DESCRIPTION, UPDATED_TASK_1, UPDATED_DESCRIPTION_1 } from '../utils/testData';
 
