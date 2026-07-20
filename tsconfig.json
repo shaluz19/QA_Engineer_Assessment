@@ -13,5 +13,5 @@
     "tests/**/*.ts",
     "pages/**/*.ts",
     "utils/**/*.ts"
-  ]
+, "fixtures/baseTest.ts"  ]
 }
