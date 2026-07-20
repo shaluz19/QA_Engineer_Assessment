@@ -1,6 +1,5 @@
-import { test, expect } from '../fixtures/baseTest';
-import { TodoPage } from '../pages/TodoPage';
-import { TASK_NAME, TASK_DESCRIPTION, UPDATED_TASK_1, UPDATED_DESCRIPTION_1 } from '../utils/testData';
+import { test, expect } from '../../fixtures/baseTest';
+import { TASK_NAME, TASK_DESCRIPTION, UPDATED_TASK_1, UPDATED_DESCRIPTION_1 } from '../../utils/testData';
 
 const TASK_TITLE = `${TASK_NAME} ${Date.now()}`;
 const UPDATED_TASK_TITLE = `Updated ${TASK_TITLE}`;
